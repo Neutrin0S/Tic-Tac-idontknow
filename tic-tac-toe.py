@@ -1,3 +1,4 @@
+# I have no idea wtf I did.
 active = True
 board  = {"topl": " ", "topm": " ", "topr": " ", 
     "midl": " ", "mid" : " ", "midr": " ", "botl": " ", "botm": " ", "botr": " "}
